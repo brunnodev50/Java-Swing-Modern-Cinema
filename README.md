@@ -30,6 +30,8 @@ O diferencial deste projeto é a implementação de uma **Interface de Usuário 
 * **🎫 Gestão de Bilheteria & Mapa de Assentos:**
     * Seleção visual de assentos interativa.
     * Indicação de status: *Livre, Selecionado, Vendido*.
+* **👥 Gestão de Clientes:**
+    * Cadastro e visualização de clientes com interface intuitiva.
 * **🍿 Bomboniere (Snack Bar):**
     * Carrinho de compras unificado (Ingressos + Produtos).
     * Controle de estoque em tempo real.
@@ -51,6 +53,11 @@ O diferencial deste projeto é a implementação de uma **Interface de Usuário 
 | **Login & Segurança** | **Seleção de Assentos** |
 |:---:|:---:|
 | <img src="https://github.com/user-attachments/assets/2b2c3c86-3afc-4495-a49d-6a19b39048e2" width="400" alt="Tela de Login"> | <img src="https://github.com/user-attachments/assets/373bd0d5-4004-40f7-929c-df579602fa26" width="400" alt="Mapa de Assentos"> |
+
+**Gestão de Clientes**
+<br>
+<img src="https://github.com/user-attachments/assets/868339cf-d221-4dda-b32c-3c86345ba283" width="800" alt="Gestão de Clientes">
+<br><br>
 
 | **Catálogo de Filmes** | **Bomboniere** |
 |:---:|:---:|
